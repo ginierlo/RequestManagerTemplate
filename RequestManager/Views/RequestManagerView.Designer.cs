@@ -1,5 +1,4 @@
-﻿
-namespace RequestManager.Views
+﻿namespace RequestManager.Views
 {
     partial class RequestManagerView
     {
